@@ -13,6 +13,7 @@ DEVICES=(
 	m1892
 	skr-a0
 	judyln
+	starqltechn
 	star2qltechn
 	dipper-old
 	pafm00
